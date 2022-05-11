@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "name": "demo",
+      "email": "Nathan@yesenia.net",
+      "id": 1
+    },
+    {
+      "name": "second",
+      "email": "Nathan@yesenia.gmail.com",
+      "id": 2
+    },
+    {
+      "name": "aman jaiwnal",
+      "email": "janwa@mgail.com",
+      "id": 3
+    }
+  ]
+}
